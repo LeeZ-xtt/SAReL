@@ -11,7 +11,6 @@ We study single-domain generalization for fault diagnosis, where a model trained
   <a href="assets/SAReL_framework.png">
     <img src="assets/SAReL_framework.png" height="450" alt="SAReL Framework">
   </a>
-  &nbsp;&nbsp;
   <a href="assets/DRS_mechanism.png">
     <img src="assets/DRS_mechanism.png" height="200" alt="DRS Mechanism">
   </a>
