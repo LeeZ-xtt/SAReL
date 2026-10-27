@@ -6,9 +6,22 @@ This repository provides the core PyTorch implementation of **SAReL**.
 
 We study single-domain generalization for fault diagnosis, where a model trained under a single operating condition is expected to generalize to unseen conditions. SAReL uses **Deep Representation Sensitivity (DRS)** to assess channel-wise sensitivity to feature-statistic changes and guide **Multi-Step Statistical Adversarial Search (MSSA)** in generating challenging feature augmentations. A joint regularization strategy combining **Cross-Covariance Decorrelation Loss (CCDL)** and label smoothing encourages representation consistency and reduces cross-dimensional redundancy.
 
-<p align="center">
-  <img src="assets/SAReL_framework.png" width="300" alt="SAReL Framework">
-</p>
+<table>
+  <tr>
+    <td width="55%" align="center">
+      <a href="assets/SAReL_framework.png">
+        <img src="assets/SAReL_framework.png" width="55%" alt="SAReL Framework">
+      </a>
+      <b>SAReL Framework</b>
+    </td>
+    <td width="45%" align="center">
+      <a href="assets/DRS_mechanism.png">
+        <img src="assets/DRS_mechanism.png" width="45%" alt="DRS Mechanism">
+      </a>
+      <b>DRS Mechanism</b>
+    </td>
+  </tr>
+</table>
 
 ## Prerequisites
 
