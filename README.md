@@ -13,7 +13,7 @@ We study single-domain generalization for fault diagnosis, where a model trained
   </a>
   &nbsp;&nbsp;
   <a href="assets/DRS_mechanism.png">
-    <img src="assets/DRS_mechanism.png" height="250" alt="DRS Mechanism">
+    <img src="assets/DRS_mechanism.png" height="200" alt="DRS Mechanism">
   </a>
 </p>
 
