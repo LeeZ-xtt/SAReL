@@ -1,0 +1,3 @@
+numpy>=1.24
+# Use an appropriate CUDA build of PyTorch if running on GPU.
+torch>=2.0
